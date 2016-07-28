@@ -1,0 +1,10 @@
+{
+  "name": "1-4-update-fail",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
